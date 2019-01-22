@@ -3,7 +3,7 @@
 ## Python, APIs and JSON traversals
 Use  Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
-We know what you may be thinking: _"Duh. It gets hotter..."_
+I know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
